@@ -1,0 +1,23 @@
+#main {
+    background-color: rgb(243, 243, 243);
+    padding: 10px;
+  }
+  header {
+      text-align: center;
+      padding: 10px 0;
+    }
+  #img-div {
+    background-color: white;
+    padding: 15px auto;
+    text-align: center;
+    width: 100%;
+    height: auto;
+    max-width: 100%;
+    
+  }
+  img {
+      width: 100%;
+      height: auto;
+      max-width: 100%;
+  }
+  
